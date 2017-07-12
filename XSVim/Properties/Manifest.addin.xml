@@ -4,6 +4,7 @@
 	</Runtime>
     <Extension path="/MonoDevelop/Ide/TextEditorExtensions">
         <Class class="XSVim.XSVim" />
+        <Class class="XSVim.XSVimCompletion" />
     </Extension>
     <Extension path = "/MonoDevelop/Ide/Commands">
         <Command id = "MonoDevelop.Ide.Commands.EditCommands.Undo"
